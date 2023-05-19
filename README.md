@@ -10,8 +10,8 @@
 	<b>Semester 6</b>
 </p>
 
-![logo](https://github.com/MrAding/UTS_Flutter_UI/assets/46867774/73ad9557-5c36-409b-993c-6ecb0428db6b)
-
+<p align="center">
+	<img src="Logo/logo.png" alt="UPB" width="350" height="350">
 </p>
 
 <p align="center">
