@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-	![logo](https://github.com/MrAding/UTS_Flutter_UI/assets/46867774/fba7330c-d052-4e67-9850-5f64ca0c58b9)
+	![logo](https://github.com/MrAding/UTS_Flutter_UI/assets/46867774/73ad9557-5c36-409b-993c-6ecb0428db6b)
 
 </p>
 
@@ -91,4 +91,5 @@ flutter run
 ## Page Reset
 
 ![forgot_password](https://github.com/MrAding/UTS_Flutter_UI/assets/46867774/fe34575f-2a21-4c30-b4c2-ef5ed7643193)
+
 
