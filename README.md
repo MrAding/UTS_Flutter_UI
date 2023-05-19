@@ -15,10 +15,10 @@
 </p>
 
 <p align="center">
-                 Nama  : Jose Fisto
+                 Nama  : Ahmad Fadhiil Muttaqin
 </p>
 <p align="center">
-                 NIM   : 312010119
+                 NIM   : 312010615
 </p>
 <p align="center">
                  Kelas : TI.20 A.1
