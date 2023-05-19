@@ -11,7 +11,8 @@
 </p>
 
 <p align="center">
-	<img src="Logo/logo.png" alt="UPB" width="350" height="350">
+	![logo](https://github.com/MrAding/UTS_Flutter_UI/assets/46867774/fba7330c-d052-4e67-9850-5f64ca0c58b9)
+
 </p>
 
 <p align="center">
@@ -79,13 +80,15 @@ flutter run
 
 ## Login Page
 
-<img src="output/login_page.jpeg" height="500em" />
+![login_page](https://github.com/MrAding/UTS_Flutter_UI/assets/46867774/bc35b898-6216-4412-9064-89cac7a0113f)
+
 
 ## Register Page
 
-<img src="output/register_page.jpeg" height="500em" />
+![register_page](https://github.com/MrAding/UTS_Flutter_UI/assets/46867774/eff99ee1-2656-4bd2-bcc5-7b2bf06dba28)
 
 
 ## Page Reset
 
-<img src="output/reset_password.jpeg" height="500em" />
+![forgot_password](https://github.com/MrAding/UTS_Flutter_UI/assets/46867774/fe34575f-2a21-4c30-b4c2-ef5ed7643193)
+
